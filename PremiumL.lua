@@ -1,3 +1,3 @@
 return {
-  "FizzedUpGlobe"
+  "Jellyfire"
  }
