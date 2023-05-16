@@ -1,3 +1,3 @@
 return {
-  "FLUXUSONTOP"
+  "FluxusIsStillOnTop"
  }
